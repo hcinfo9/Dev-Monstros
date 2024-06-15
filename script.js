@@ -17,11 +17,3 @@ button.addEventListener('click', () => {
 })
 
 secao.innerHTML = todosMonstros
-
-
-//button.addEventListener('click', () => {
-//             const image = document.createElement('img')
-//             const url= monstros.foto
-//             image.src=url
-//             secao.appendChild(image)
-//         })
