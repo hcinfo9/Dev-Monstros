@@ -1,4 +1,4 @@
-const monstros=[
+const monstros = [
     {
         id: 1,
         nome: 'Fulano',
